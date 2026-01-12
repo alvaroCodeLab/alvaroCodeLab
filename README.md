@@ -38,8 +38,12 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 - MySQL / MariaDB *(ajusta según tu experiencia)*  
 
 ### Sistemas y entornos
-- Windows  
-- Linux  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" 
+       alt="Windows" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+       alt="Linux" width="40" height="40"/>
+</p>
 
 ### Control de versiones
 - Git  
