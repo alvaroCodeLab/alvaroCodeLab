@@ -38,8 +38,8 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
        alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bootstrap.svg" 
-       alt="Bootstrap" width="40" height="40" style="color:#6f42c1;"/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/6f42c1"
+       alt="Bootstrap Logo Morado" />
 </p>
 
 ### Bases de datos
