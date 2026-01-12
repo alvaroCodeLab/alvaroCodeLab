@@ -94,12 +94,12 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 > Algunos de los proyectos en los que he trabajado:
 
 - **Proyecto 1** – Aplicación web con HTML, CSS, JavaScript y PHP  
-  - Descripción breve del proyecto  
-  - Enlace al repositorio  
+  - Aplicación web para el alquiler de vehículos 
+  - Enlace al repositorio (No disponible)  
 
-- **Proyecto 2** – Aplicación con React  
-  - Descripción breve del proyecto  
-  - Enlace al repositorio  
+- **Proyecto 2** – Aplicación con Java  
+  - Aplicación para gestión académica  
+  - Enlace al repositorio (No disponible)
 
 ---
 
