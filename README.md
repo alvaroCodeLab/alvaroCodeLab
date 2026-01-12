@@ -1,9 +1,7 @@
 # 👋 Hola, soy Álvaro Serrano
 
 ## 🧑‍💻 Sobre mí
-Técnico en Desarrollo de Aplicaciones Web y Administración de Sistemas Informáticos y Redes, orientado a la creación de aplicaciones web funcionales, mantenibles y adaptadas a las necesidades del usuario.
-
-Cuento con conocimientos en desarrollo web front-end y back-end, así como experiencia en sistemas, lo que me permite comprender el ciclo completo de una aplicación web, desde el desarrollo hasta su despliegue y mantenimiento.
+### Técnico en Desarrollo de Aplicaciones Web y Administración de Sistemas Informáticos y Redes.
 
 ---
 
