@@ -32,12 +32,27 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
        alt="Java" width="40" height="40"/>
 </p>
 
-| `Frameworks y Librerías` | `Bases de datos` |
-|---------------------------|----------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://cdn.simpleicons.org/bootstrap/6f42c1" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/> |
+### `Frameworks y Librerías`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+       alt="React" width="40" height="40"/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/6f42c1"
+       alt="Bootstrap Logo Morado" />
+</p>
 
+### `Bases de datos`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
+       alt="Oracle" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+       alt="SQL Server" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+       alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+       alt="phpMyAdmin" width="40" height="40"/>
+</p>
 
-### Sistemas y entornos
+### `Sistemas y entornos`
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" 
        alt="Windows" width="40" height="40"/>
@@ -45,7 +60,7 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
        alt="Linux" width="40" height="40"/>
 </p>
 
-### Control de versiones
+### `Control de versiones`
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
        alt="Git" width="40" height="40"/>
