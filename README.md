@@ -72,11 +72,18 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 ---
 
 ## 🧠 Conocimientos clave
-- Desarrollo de aplicaciones web funcionales y mantenibles  
-- Integración front-end y back-end  
-- Trabajo con bases de datos  
-- Administración básica de sistemas  
-- Despliegue y mantenimiento de aplicaciones web  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
+![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=php&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Sony Vegas](https://img.shields.io/badge/-Sony%20Vegas-000000?style=flat-square)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 
 ---
 
