@@ -80,8 +80,8 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 
 #### Entornos de desarrollo
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualstudiocode.svg"
-     alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/0078D7"
+       alt="Visual Studio Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg"
        alt="Apache NetBeans" width="40" height="40"/>
 </p>
@@ -96,13 +96,13 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 
 #### CMS / Web
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wordpress.svg"
+  <img src="https://cdn.simpleicons.org/wordpress/21759B"
        alt="WordPress" width="40" height="40"/>
 </p>
 
 #### Diseño gráfico
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobephotoshop.svg"
+  <img src="https://cdn.simpleicons.org/adobephotoshop/001E36"
        alt="Adobe Photoshop" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"
        alt="GIMP" width="40" height="40"/>
