@@ -104,7 +104,7 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 
 ## 📚 Actualmente aprendiendo
 - Buenas prácticas en desarrollo web  
-- Profundizando en React  
+- Profundizando en ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
 - Administración de sistemas en entornos Linux  
 
 ---
