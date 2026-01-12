@@ -70,6 +70,46 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
        alt="GitLab" width="40" height="40"/>
 </p>
 
+#### Máquinas virtuales
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg"
+       alt="VirtualBox" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg"
+       alt="VMware" width="40" height="40"/>
+</p>
+
+#### Entornos de desarrollo
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
+       alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg"
+       alt="Apache NetBeans" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xampp/xampp-original.svg"
+       alt="XAMPP" width="40" height="40"/>
+</p>
+
+#### FTP / Servidores
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-original.svg"
+       alt="FileZilla" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"
+       alt="Apache" width="40" height="40"/>
+</p>
+
+#### CMS / Web
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wordpress.svg"
+       alt="WordPress" width="40" height="40"/>
+</p>
+
+#### Diseño gráfico
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobephotoshop.svg"
+       alt="Adobe Photoshop" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"
+       alt="GIMP" width="40" height="40"/>
+</p>
+
 ---
 
 ## 🧠 Conocimientos clave
