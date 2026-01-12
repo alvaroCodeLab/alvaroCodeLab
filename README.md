@@ -27,8 +27,12 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 </p>
 
 ### Back-end
-- PHP  
-- Java  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
+       alt="PHP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+       alt="Java" width="40" height="40"/>
+</p>
 
 ### Bases de datos
 - MySQL / MariaDB *(ajusta según tu experiencia)*  
