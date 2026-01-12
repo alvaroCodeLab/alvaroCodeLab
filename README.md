@@ -70,44 +70,6 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
        alt="GitLab" width="40" height="40"/>
 </p>
 
-#### Máquinas virtuales
-<p align="left">
-  <img src="https://cdn.simpleicons.org/virtualbox/2A2A72"
-       alt="VirtualBox" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/vmware/FF0000"
-       alt="VMware" width="40" height="40"/>
-</p>
-
-#### Entornos de desarrollo
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudiocode/visualstudiocode-original.svg"
-     alt="Visual Studio Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg"
-       alt="Apache NetBeans" width="40" height="40"/>
-</p>
-
-#### FTP / Servidores
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-original.svg"
-       alt="FileZilla" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"
-       alt="Apache" width="40" height="40"/>
-</p>
-
-#### CMS / Web
-<p align="left">
-  <img src="https://cdn.simpleicons.org/wordpress/21759B"
-       alt="WordPress" width="40" height="40"/>
-</p>
-
-#### Diseño gráfico
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Adobe_Photoshop_CC_icon.svg"
-     alt="Photoshop" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg"
-       alt="GIMP" width="40" height="40"/>
-</p>
-
 ---
 
 ## 🧠 Conocimientos clave
