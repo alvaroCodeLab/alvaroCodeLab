@@ -1,14 +1,86 @@
-## Hi there 👋
+# 👋 Hola, soy [Álvaro]
 
-<a href="" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+## 🧑‍💻 Sobre mí
+Técnico en Desarrollo de Aplicaciones Web y Administración de Sistemas Informáticos y Redes, orientado a la creación de aplicaciones web funcionales, mantenibles y adaptadas a las necesidades del usuario.
 
-<a href="" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-</a>
+Cuento con conocimientos en desarrollo web front-end y back-end, así como experiencia en sistemas, lo que me permite comprender el ciclo completo de una aplicación web, desde el desarrollo hasta su despliegue y mantenimiento.
 
-<a href="mailto:">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="gmail" height="30" width="40" />
-</a>
+---
+
+## 🎯 Objetivo profesional
+Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas Junior**, donde pueda aportar mis conocimientos, crecer profesionalmente y formar parte de un equipo colaborativo, en modalidad remota, híbrida o presencial.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Front-end
+- HTML5  
+- CSS3  
+- JavaScript  
+- React  
+
+### Back-end
+- PHP  
+- Java  
+
+### Bases de datos
+- MySQL / MariaDB *(ajusta según tu experiencia)*  
+
+### Sistemas y entornos
+- Windows  
+- Linux  
+
+### Control de versiones
+- Git  
+- GitHub  
+
+---
+
+## 🧠 Conocimientos clave
+- Desarrollo de aplicaciones web funcionales y mantenibles  
+- Integración front-end y back-end  
+- Trabajo con bases de datos  
+- Administración básica de sistemas  
+- Despliegue y mantenimiento de aplicaciones web  
+
+---
+
+## 🚀 Proyectos destacados
+> Algunos de los proyectos en los que he trabajado:
+
+- **Proyecto 1** – Aplicación web con HTML, CSS, JavaScript y PHP  
+  - Descripción breve del proyecto  
+  - Enlace al repositorio  
+
+- **Proyecto 2** – Aplicación con React  
+  - Descripción breve del proyecto  
+  - Enlace al repositorio  
+
+---
+
+## 💼 Aptitudes personales
+- Responsable  
+- Proactivo  
+- Capacidad de aprendizaje continuo  
+- Trabajo en equipo  
+- Orientado a la mejora constante  
+
+---
+
+## 📚 Actualmente aprendiendo
+- Buenas prácticas en desarrollo web  
+- Profundizando en React  
+- Administración de sistemas en entornos Linux  
+
+---
+
+## 📫 Contacto
+- LinkedIn: [Tu enlace aquí]  
+- Email: [tuemail@ejemplo.com]  
+
+---
+
+⭐ *Gracias por visitar mi perfil de GitHub*
+
 
