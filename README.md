@@ -1,4 +1,4 @@
-# 👋 ¡Hola!, soy Álvaro Serrano
+# 👋 Hola, soy Álvaro Serrano
 
 ## 🧑‍💻 Sobre mí
 Técnico en Desarrollo de Aplicaciones Web y Administración de Sistemas Informáticos y Redes, orientado a la creación de aplicaciones web funcionales, mantenibles y adaptadas a las necesidades del usuario.
