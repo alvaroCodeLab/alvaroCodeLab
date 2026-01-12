@@ -57,8 +57,14 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 </p>
 
 ### Control de versiones
-- Git  
-- GitHub  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+       alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+       alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
+       alt="GitLab" width="40" height="40"/>
+</p>
 
 ---
 
