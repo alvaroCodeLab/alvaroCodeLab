@@ -84,8 +84,6 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
      alt="Visual Studio Code" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg"
        alt="Apache NetBeans" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache_xampp/apache_xampp-original.svg"
-       alt="XAMPP" width="40" height="40"/>
 </p>
 
 #### FTP / Servidores
