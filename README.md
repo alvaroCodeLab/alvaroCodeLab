@@ -14,7 +14,7 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 
 ## 🛠️ Tecnologías y herramientas
 
-### Front-end
+### <span lang="en">Front-end</span>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
        alt="HTML5" width="40" height="40"/>
