@@ -34,6 +34,14 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
        alt="Java" width="40" height="40"/>
 </p>
 
+### Frameworks y Librerías
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+       alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" 
+       alt="Bootstrap" width="40" height="40"/>
+</p>
+
 ### Bases de datos
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
