@@ -38,8 +38,8 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
        alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" 
-       alt="Bootstrap" width="40" height="40" style="filter: hue-rotate(270deg) saturate(3);"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bootstrap.svg" 
+       alt="Bootstrap" width="40" height="40" style="color:#6f42c1;"/>
 </p>
 
 ### Bases de datos
@@ -67,7 +67,7 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
        alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"
-       alt="GitHub" width="40" height="40" style="filter: invert(1);"/>
+       alt="GitHub" width="40" height="40" style="color:white;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
        alt="GitLab" width="40" height="40"/>
 </p>
