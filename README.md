@@ -80,8 +80,8 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 
 #### Entornos de desarrollo
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudiocode/visualstudiocode-original.svg"
-     alt="Visual Studio Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/visualstudiocode.svg"
+     alt="Visual Studio Code" width="40" height="40" style="filter: invert(26%) sepia(91%) saturate(2130%) hue-rotate(186deg) brightness(97%) contrast(101%);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg"
        alt="Apache NetBeans" width="40" height="40"/>
 </p>
