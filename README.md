@@ -72,9 +72,9 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 
 #### Máquinas virtuales
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg"
+  <img src="https://cdn.simpleicons.org/virtualbox/2A2A72"
        alt="VirtualBox" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg"
+  <img src="https://cdn.simpleicons.org/vmware/FF0000"
        alt="VMware" width="40" height="40"/>
 </p>
 
