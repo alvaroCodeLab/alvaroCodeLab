@@ -66,8 +66,8 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
        alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"
-       alt="GitHub" width="40" height="40" style="color:white;"/>
+  <img height="40" width="40" src="https://cdn.simpleicons.org/github/ffffff"
+       alt="GitHub Logo Blanco" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
        alt="GitLab" width="40" height="40"/>
 </p>
