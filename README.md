@@ -39,7 +39,7 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
        alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" 
-       alt="Bootstrap" width="40" height="40"/>
+       alt="Bootstrap" width="40" height="40" style="filter: hue-rotate(270deg) saturate(3);"/>
 </p>
 
 ### Bases de datos
