@@ -120,8 +120,8 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 ---
 
 ## 📫 Contacto
-- LinkedIn: [Tu enlace aquí]  
-- Email: [tuemail@ejemplo.com]  
+- LinkedIn: [Álvaro Serrano Carrasco](https://www.linkedin.com/in/%C3%A1lvaro-serrano-carrasco-1853953a3/) 
+- Email: alvaroserracarra@gmail.com  
 
 ---
 
