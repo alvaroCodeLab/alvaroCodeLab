@@ -1,6 +1,6 @@
 # 👋 Hola, soy Álvaro Serrano
 
-![https://github.com/alvaroCodeLab](./Desarrollador web.png)
+![https://github.com/alvaroCodeLab](./Desarrollador_web.png)
 
 ## 🧑‍💻 Sobre mí
 #### Técnico en Desarrollo de Aplicaciones Web. 
