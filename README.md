@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 Sobre mí
 #### Técnico en Desarrollo de Aplicaciones Web. 
-#### Técnico en Administración de Sistemas Informáticos y Redes.
+#### Técnico en Administración de Sistemas Informáticos en Red.
 
 ---
 
