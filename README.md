@@ -71,7 +71,7 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 
 ---
 
-## 🧠 Conocimientos clave
+## 🧠 Otros conocimientos
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-007B9F?style=flat-square&logo=netbeans&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
