@@ -15,26 +15,18 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 
 ## 🛠️ Tecnologías y herramientas
 
-<div style="display: flex; justify-content: space-between; gap: 40px;">
+### `Front-end`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</p>
 
-  <div style="width: 48%;">
-    <h3>Front-end</h3>
-    <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-    </p>
-  </div>
-
-  <div style="width: 48%;">
-    <h3>Back-end</h3>
-    <p align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-    </p>
-  </div>
-
-</div>
+### `Back-end`
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+</p>
 
 ### `Frameworks y Librerías`
 <p align="left">
