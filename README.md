@@ -97,7 +97,7 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 
 - **Proyecto 2** – Aplicación con Java  
   - Aplicación para gestión académica  
-  - Enlace al repositorio (No disponible)
+  - https://github.com/alvaroCodeLab/Academia
 
 ---
 
