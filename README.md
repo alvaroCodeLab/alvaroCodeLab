@@ -69,22 +69,26 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 ---
 
 ## 🧠 Otros conocimientos
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/-NetBeans-007B9F?style=flat-square&logo=netbeans&logoColor=white)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
-![GlassFish](https://img.shields.io/badge/-GlassFish-2E86C1?style=flat-square&logo=java&logoColor=white)
-![Apache](https://img.shields.io/badge/-Apache-FC6D26?style=flat-square&logo=apache&logoColor=white)
-![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![GIMP](https://img.shields.io/badge/-GIMP-6E5C2B?style=flat-square&logo=gimp&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-001E36?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Linux Server](https://img.shields.io/badge/-Linux%20Server-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+[![VS Code][vscode-shield]][vscode-url]
+[![NetBeans][netbeans-shield]][netbeans-url]
+[![XAMPP][xampp-shield]][xampp-url]
+[![GlassFish][glassfish-shield]][glassfish-url]
+[![Apache][apache-shield]][apache-url]
+[![FileZilla][filezilla-shield]][filezilla-url]
+[![phpMyAdmin][phpmyadmin-shield]][phpmyadmin-url]
+[![WordPress][wordpress-shield]][wordpress-url]
+
+[![GIMP][gimp-shield]][gimp-url]
+[![Photoshop][photoshop-shield]][photoshop-url]
+
+[![Linux Server][linux-shield]][linux-url]
+[![Windows Server][windows-shield]][windows-url]
+
+[![VirtualBox][virtualbox-shield]][virtualbox-url]
+[![VMware][vmware-shield]][vmware-url]
+[![Docker][docker-shield]][docker-url]
+[![AWS][aws-shield]][aws-url]
 
 ---
 
@@ -124,3 +128,52 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 ⭐ *Gracias por visitar mi perfil de GitHub*
 
 
+<!-- TOOLS & TECHNOLOGIES -->
+
+[vscode-shield]: https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[vscode-url]: https://code.visualstudio.com/
+
+[netbeans-shield]: https://img.shields.io/badge/NetBeans-007B9F?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white
+[netbeans-url]: https://netbeans.apache.org/
+
+[xampp-shield]: https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white
+[xampp-url]: https://www.apachefriends.org/
+
+[glassfish-shield]: https://img.shields.io/badge/GlassFish-2E86C1?style=for-the-badge&logo=java&logoColor=white
+[glassfish-url]: https://javaee.github.io/glassfish/
+
+[apache-shield]: https://img.shields.io/badge/Apache-FC6D26?style=for-the-badge&logo=apache&logoColor=white
+[apache-url]: https://httpd.apache.org/
+
+[filezilla-shield]: https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white
+[filezilla-url]: https://filezilla-project.org/
+
+[phpmyadmin-shield]: https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white
+[phpmyadmin-url]: https://www.phpmyadmin.net/
+
+[wordpress-shield]: https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+[wordpress-url]: https://wordpress.org/
+
+[gimp-shield]: https://img.shields.io/badge/GIMP-6E5C2B?style=for-the-badge&logo=gimp&logoColor=white
+[gimp-url]: https://www.gimp.org/
+
+[photoshop-shield]: https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobe-photoshop&logoColor=white
+[photoshop-url]: https://www.adobe.com/products/photoshop.html
+
+[linux-shield]: https://img.shields.io/badge/Linux%20Server-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[linux-url]: https://www.linux.org/
+
+[windows-shield]: https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white
+[windows-url]: https://www.microsoft.com/windows-server
+
+[virtualbox-shield]: https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white
+[virtualbox-url]: https://www.virtualbox.org/
+
+[vmware-shield]: https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white
+[vmware-url]: https://www.vmware.com/
+
+[docker-shield]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[docker-url]: https://www.docker.com/
+
+[aws-shield]: https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white
+[aws-url]: https://aws.amazon.com/
