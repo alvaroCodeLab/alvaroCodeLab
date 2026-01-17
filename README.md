@@ -85,7 +85,7 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 [![VirtualBox][virtualbox-shield]][virtualbox-url]
 [![VMware][vmware-shield]][vmware-url]
 [![Docker][docker-shield]][docker-url]
-[![AWS][aws-shield]][aws-url]
+[![Amazon AWS][aws-shield]][aws-url]
 
 ---
 
@@ -127,16 +127,16 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 
 <!-- TOOLS & TECHNOLOGIES -->
 
-[vscode-shield]: https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[vscode-shield]: https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white
 [vscode-url]: https://code.visualstudio.com/
 
-[netbeans-shield]: https://img.shields.io/badge/NetBeans-007B9F?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white
+[netbeans-shield]: https://img.shields.io/badge/NetBeans-007B9F?style=for-the-badge&logo=apachenetbeans&logoColor=white
 [netbeans-url]: https://netbeans.apache.org/
 
 [xampp-shield]: https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white
 [xampp-url]: https://www.apachefriends.org/
 
-[glassfish-shield]: https://img.shields.io/badge/GlassFish-2E86C1?style=for-the-badge&logo=java&logoColor=white
+[glassfish-shield]: https://img.shields.io/badge/GlassFish-2E86C1?style=for-the-badge&logo=oracle&logoColor=white
 [glassfish-url]: https://javaee.github.io/glassfish/
 
 [apache-shield]: https://img.shields.io/badge/Apache-FC6D26?style=for-the-badge&logo=apache&logoColor=white
@@ -145,7 +145,7 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 [filezilla-shield]: https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white
 [filezilla-url]: https://filezilla-project.org/
 
-[phpmyadmin-shield]: https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white
+[phpmyadmin-shield]: https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white
 [phpmyadmin-url]: https://www.phpmyadmin.net/
 
 [wordpress-shield]: https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
@@ -154,7 +154,7 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 [gimp-shield]: https://img.shields.io/badge/GIMP-6E5C2B?style=for-the-badge&logo=gimp&logoColor=white
 [gimp-url]: https://www.gimp.org/
 
-[photoshop-shield]: https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobe-photoshop&logoColor=white
+[photoshop-shield]: https://img.shields.io/badge/Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=white
 [photoshop-url]: https://www.adobe.com/products/photoshop.html
 
 [linux-shield]: https://img.shields.io/badge/Linux%20Server-FCC624?style=for-the-badge&logo=linux&logoColor=black
@@ -172,5 +172,6 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 [docker-shield]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 [docker-url]: https://www.docker.com/
 
-[aws-shield]: https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white
+[aws-shield]: https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
 [aws-url]: https://aws.amazon.com/
+
