@@ -16,55 +16,33 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 ## 🛠️ Tecnologías y herramientas
 
 ### `Front-end`
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</p>
+[![HTML5][html-shield]][html-url]
+[![CSS3][css-shield]][css-url]
+[![JavaScript][js-shield]][js-url]
 
 ### `Back-end`
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-</p>
+[![PHP][php-shield]][php-url]
+[![Java][java-shield]][java-url]
 
 ### `Frameworks y Librerías`
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-       alt="React" width="40" height="40"/>
-  <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/6f42c1"
-       alt="Bootstrap Logo Morado" />
-</p>
+[![React][react-shield]][react-url]
+[![Bootstrap][bootstrap-shield]][bootstrap-url]
 
 ### `Bases de datos`
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
-       alt="Oracle" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-       alt="SQL Server" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-       alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-       alt="phpMyAdmin" width="40" height="40"/>
-</p>
+[![Oracle][oracle-shield]][oracle-url]
+[![SQL Server][sqlserver-shield]][sqlserver-url]
+[![MySQL][mysql-shield]][mysql-url]
+[![phpMyAdmin][phpmyadmin-shield]][phpmyadmin-url]
 
 ### `Sistemas y entornos`
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" 
-       alt="Windows" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-       alt="Linux" width="40" height="40"/>
-</p>
+[![Windows][windows-shield]][windows-url]
+[![Linux][linux-shield]][linux-url]
 
 ### `Control de versiones`
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-       alt="Git" width="40" height="40"/>
-  <img height="40" width="40" src="https://cdn.simpleicons.org/github/ffffff"
-       alt="GitHub Logo Blanco" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
-       alt="GitLab" width="40" height="40"/>
-</p>
+[![Git][git-shield]][git-url]
+[![GitHub][github-shield]][github-url]
+[![GitLab][gitlab-shield]][gitlab-url]
+
 
 ---
 
@@ -124,6 +102,46 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 
 ⭐ *Gracias por visitar mi perfil de GitHub*
 
+<!-- CORE TECHNOLOGIES -->
+
+[html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[html-url]: https://developer.mozilla.org/es/docs/Web/HTML
+
+[css-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[css-url]: https://developer.mozilla.org/es/docs/Web/CSS
+
+[js-shield]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[js-url]: https://developer.mozilla.org/es/docs/Web/JavaScript
+
+[php-shield]: https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[php-url]: https://www.php.net/
+
+[java-shield]: https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+[java-url]: https://www.oracle.com/java/
+
+[react-shield]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react-url]: https://react.dev/
+
+[bootstrap-shield]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[bootstrap-url]: https://getbootstrap.com/
+
+[oracle-shield]: https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white
+[oracle-url]: https://www.oracle.com/database/
+
+[sqlserver-shield]: https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white
+[sqlserver-url]: https://www.microsoft.com/sql-server
+
+[mysql-shield]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+[mysql-url]: https://www.mysql.com/
+
+[git-shield]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
+[git-url]: https://git-scm.com/
+
+[github-shield]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+[github-url]: https://github.com/alvaroCodeLab
+
+[gitlab-shield]: https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white
+[gitlab-url]: https://about.gitlab.com/
 
 <!-- TOOLS & TECHNOLOGIES -->
 
