@@ -78,13 +78,10 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 [![FileZilla][filezilla-shield]][filezilla-url]
 [![phpMyAdmin][phpmyadmin-shield]][phpmyadmin-url]
 [![WordPress][wordpress-shield]][wordpress-url]
-
 [![GIMP][gimp-shield]][gimp-url]
 [![Photoshop][photoshop-shield]][photoshop-url]
-
 [![Linux Server][linux-shield]][linux-url]
 [![Windows Server][windows-shield]][windows-url]
-
 [![VirtualBox][virtualbox-shield]][virtualbox-url]
 [![VMware][vmware-shield]][vmware-url]
 [![Docker][docker-shield]][docker-url]
