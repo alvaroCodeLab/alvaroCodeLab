@@ -72,7 +72,7 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 
 - **Proyecto 1** – Aplicación web con HTML, CSS, JavaScript y PHP  
   - Aplicación web para el alquiler de vehículos 
-  - Enlace al repositorio (No disponible)  
+  - https://github.com/alvaroCodeLab/AlquilerVehiculos
 
 - **Proyecto 2** – Aplicación con Java  
   - Aplicación para gestión académica  
