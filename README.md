@@ -67,30 +67,12 @@ Busco una oportunidad como **Desarrollador Web Junior** o **Técnico de Sistemas
 
 ---
 
-## 🚀 Proyectos destacados
-> Algunos de los proyectos en los que he trabajado:
-
-- **Proyecto 1** – Aplicación web con HTML, CSS, JavaScript y PHP  
-  - Aplicación web para el alquiler de vehículos 
-  - https://github.com/alvaroCodeLab/AlquilerVehiculos
-
-- **Proyecto 2** – Aplicación con Java  
-  - Aplicación para gestión académica  
-  - https://github.com/alvaroCodeLab/Academia
-
----
-
 ## 💼 Aptitudes personales
 - Responsable  
 - Proactivo  
 - Capacidad de aprendizaje continuo  
 - Trabajo en equipo  
 - Orientado a la mejora constante  
-
----
-
-## 📚 Actualmente aprendiendo 
-- Profundizando en React.
 
 ---
 
